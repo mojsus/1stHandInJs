@@ -1,0 +1,27 @@
+body {
+    background-position: center;
+}
+.bg-grey {
+    background-color: lightgray;
+}
+
+.bg-lightsalmon {
+    background-color: lightsalmon;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#me {
+    padding-left: 330px;
+}
+
+
+#signIn {
+    padding-left: 750px;
+}
